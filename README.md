@@ -22,4 +22,4 @@ A simple Android application to fetch and display movie details using an API and
 ## 🚀 Installation
 1. Clone the repository:
    ```sh
-   
+   https://github.com/sreekumary/Movie-App.git
