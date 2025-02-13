@@ -15,6 +15,8 @@ Architecture: MVVM
 Networking: Retrofit
 Database: Room
 UI Components: RecyclerView, LiveData, ViewModel
+API_KEY and BASE_URL in the build.gradle.kts
 🚀 Installation
 Clone the repository:
 https://github.com/sreekumary/Movie-App.git
+
